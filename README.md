@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently undergraduate at **Uva Wellassa University of Sri Lanka.**
 
-- 🌱 I’m currently learning **Spring Boot, TypeScript,React, ML, Microservices.**
+- 🌱 I’m currently learning **Spring Boot, TypeScript, React, ML, Microservices.**
 
 - 💬 Ask me about **Python, Java**
 
